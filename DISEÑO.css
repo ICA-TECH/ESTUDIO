@@ -1,0 +1,33 @@
+
+body {
+    background-image: url( 'archipielago.jpg');
+    background-size: cover; /* Otras opciones: "contain", "100% auto", "auto 100%", etc. */
+    background-repeat: no-repeat ;
+  }
+  
+body {
+    margin: 40px;
+    font: 150% Arial, Helvetica, sans-serif;
+   }
+   p{
+    color: rgb(19, 18, 18);
+   }
+
+   table {
+    table-layout: fixed;
+  }
+th{
+    width: auto;
+}  
+.footer-container {
+    text-align: center;
+    
+  }
+  
+  footer p{
+    color: rgb(0, 181, 253);
+  }
+
+  h1{
+    text-align: center;
+  }
